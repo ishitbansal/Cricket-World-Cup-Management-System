@@ -32,7 +32,7 @@
 
 ### Phase 2
 
-- Relational Model
+- ER Diagram
 
 <br>
 
